@@ -1,2 +1,2 @@
-# vercel
-Vercel test site
+# Netlify
+Netlify test site
